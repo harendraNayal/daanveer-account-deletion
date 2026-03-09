@@ -9,7 +9,7 @@
 
 <p>If you wish to delete your Daanveer account and associated data, please send a request to the email below.</p>
 
-<p>Email: support@milleniance.com</p>
+<p>Email: danvirind@gmail.com</p>
 
 <p>Please include the following details:</p>
 
